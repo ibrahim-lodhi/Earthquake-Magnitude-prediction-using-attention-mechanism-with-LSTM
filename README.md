@@ -1,0 +1,1 @@
+# Earthquake-Magnitude-prediction-using-attention-mechanism-with-LSTM

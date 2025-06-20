@@ -1,6 +1,5 @@
 # Earthquake Magnitude Prediction Using Attention Mechanism and LSTM
 
-![Earthquake Prediction Banner](https://img.shields.io/badge/Deep_Learning-LSTM_attention-blue)
 A deep learning project that leverages **Attention Mechanism** and **Long Short-Term Memory (LSTM)** networks to predict the **magnitude of recent earthquakes** using real seismic data.
 
 ## 🌍 Overview

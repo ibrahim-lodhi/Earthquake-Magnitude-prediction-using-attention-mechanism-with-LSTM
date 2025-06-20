@@ -1,7 +1,3 @@
-Here’s a professional and informative `README.md` for your GitHub project titled **"Earthquake Magnitude Prediction Using Attention Mechanism and LSTM"**. You can copy this and customize further as needed:
-
----
-
 # Earthquake Magnitude Prediction Using Attention Mechanism and LSTM
 
 ![Earthquake Prediction Banner](https://img.shields.io/badge/Deep_Learning-LSTM_attention-blue)
